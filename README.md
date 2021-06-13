@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alicepretty
-- 👀 I’m interested in men
-- 🌱 I’m currently learning Tnformation Technology
+- 👀 I’m interested in Tech and related Stuff
+- 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me alicemuhorakeye15@gmail.com
 
